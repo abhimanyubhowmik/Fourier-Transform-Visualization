@@ -1,5 +1,4 @@
 import numpy as np
-from matplotlib.pyplot import *
 import scipy.integrate as integrate
 import plotly.graph_objects as go
 import time

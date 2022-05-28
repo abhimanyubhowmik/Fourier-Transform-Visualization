@@ -1,6 +1,6 @@
 # Fourier Transform and FFT Visualizer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/machine-learning-model-visualizer/main/App/main.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/fourier-transform-visualization/main/App/main.py)
 
  
  Demonstration of Fourier and Fast Fourier Transform over several different signals.

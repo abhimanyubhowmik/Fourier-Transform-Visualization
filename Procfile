@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run App/main.py --logger.level=info 2>Log/ml_model_viz.log
+web: sh setup.sh && streamlit run App/main.py --logger.level=info 2>Log/fourier_viz.log

@@ -1,6 +1,7 @@
 # Fourier Transform and FFT Visualizer
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhimanyubhowmik/fourier-transform-visualization/main/App/main.py)
+[![Heroku](https://img.shields.io/badge/Open_in-Heroku-blueviolet?logo=Heroku&logoColor=white)](https://fourier-transform-viz.herokuapp.com)
 
  
  Demonstration of Fourier and Fast Fourier Transform over several different signals.
